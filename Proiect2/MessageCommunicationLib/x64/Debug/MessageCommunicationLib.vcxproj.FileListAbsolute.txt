@@ -1,0 +1,2 @@
+C:\Facultate\New\Anul I\Semestrul I\BitDefender\Proiect2\Modificat\bin\x64\Debug\MessageCommunicationLib.pdb
+C:\Facultate\New\Anul I\Semestrul I\BitDefender\Proiect2\Modificat\MessageCommunicationLib\x64\Debug\MessageCommunicationLib.pdb
